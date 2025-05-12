@@ -83,12 +83,12 @@ Now after we've installed the font, let's apply it!
 
 For this you're going to open your system settings and search for **"Font Selection"**
 
-![Font Selection](images/Pasted&20image&2020250512183428.png)
+![Font Selection](images/Pasted%20image%2020250512183428.png)
 
 
 And now we can apply the font here:
 
-![Apply Font](images/Pasted&20image&2020250512183554.png)
+![Apply Font](images/Pasted%20image%2020250512183554.png)
 
 Pick the fonts you want to use for these parts of the font display!
 
@@ -102,19 +102,19 @@ https://www.cinnamon-look.org/browse/
 
 and click on cursors!
 
-![Click on cursors](images/Pasted&20image&2020250512184001.png)
+![Click on cursors](images/Pasted%20image%2020250512184001.png)
 
 When you click on "Cursors" it will redirect you to another page (still on cinnamon-look) where you can download the cursor you want from.
 
 For the tutorial I'll be using this cursor:
 
-![The cursor I'll use](images/Pasted&20image&2020250512184150.png)
+![The cursor I'll use](images/Pasted%20image%2020250512184150.png)
 
 You can click on "Download" which will show you a drop down, click on that and it will start installing the cursor.
 
 Now navigate to where you installed the cursor.
 
-![Download location for cursor](images/Pasted&20image&2020250512184453.png)
+![Download location for cursor](images/Pasted%20image%2020250512184453.png)
 
 right click the file and hit extract here!
 
@@ -123,15 +123,15 @@ CTRL + H to show all hidden files.
 
 Now we're going to go back to the home folder and we want to find the .icons folder, if it doesn't exist create it:
 
-![.icons folder](images/Pasted&20image&2020250512185512.png)
+![.icons folder](images/Pasted%20image%2020250512185512.png)
 
 now after entering the folder we're going to paste the cursor in here:
 
-![Place cursor](Pasted&20image&2020250512185654.png)
+![Place cursor](Pasted%20image%2020250512185654.png)
 
 Now let's head over to "Themes" to use this cursor
 
-![Themes](images/Pasted&20image&2020250512190004.png)
+![Themes](images/Pasted%20image%2020250512190004.png)
 
 Click on the "Mouse Pointer" and select the cursor you installed!
 
@@ -145,11 +145,11 @@ In Cinnamon there are so called "Extensions", which allow you to customise your 
 
 To find them we're going to search for them:
 
-![Search for extensions](images/Pasted&20image&2020250512190630.png)
+![Search for extensions](images/Pasted%20image%2020250512190630.png)
 
 Here you can manage your extensions and download new ones:
 
-![Extension managment and download](images/Pasted&20image&2020250512190706.png)
+![Extension managment and download](images/Pasted%20image%2020250512190706.png)
 
 To apply a newly installed extension click on the plus, and to configure one click on the gear icon at the far right.
 
@@ -181,7 +181,7 @@ https://pixiv.pictures/
 
 Cinnamon also has these fun things called "Desklets" that you can place on your desktop here's a quick example of my desklet:
 
-![Desklets on my desktop](images/Pasted&20image&2020250512191453.png)
+![Desklets on my desktop](images/Pasted%20image%2020250512191453.png)
 
 The clock in the top left is the desklet I'm using.
 
@@ -189,11 +189,11 @@ To use desklets:
 
 Search for "Desklets"
 
-![Search for desklets](images/Pasted&20image&2020250512192123.png)
+![Search for desklets](images/Pasted%20image%2020250512192123.png)
 
 Open it up and you'll get an interface similar to this one:
 
-![Interface](images/Pasted&20image&2020250512192218.png)
+![Interface](images/Pasted%20image%2020250512192218.png)
 
 Here you can download desklets, manage them, and change general settings which applies to most desklets!
 
@@ -212,11 +212,11 @@ For icons you can follow the exact same guide for [Cursors](#cursors) but all yo
 For application styles we're going to head over to https://www.cinnamon-look.org/browse/ again, and press on "GTK3/4 Themes".
 For this tutorial I'll be using Jasper-Gtk-Theme:
 
-![Jasper-Gtk-Theme](images/Pasted&20image&2020250512193638.png)
+![Jasper-Gtk-Theme](images/Pasted%20image%2020250512193638.png)
 
 Download the theme and go to your install location, there extract the folder and go to your .themes
 
-![Extract the folder](images/Pasted&20image&2020250512193832.png)
+![Extract the folder](images/Pasted%20image%2020250512193832.png)
 
 Place the files in here and close it.
 
