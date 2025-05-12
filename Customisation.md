@@ -79,12 +79,12 @@ Now after we've installed the font, let's apply it!
 
 For this you're going to open your system settings and search for **"Font Selection"**
 
-![[Pasted image 20250512183428.png]]
+![Font Selection](Pasted image 20250512183428.png)
 
 
 And now we can apply the font here:
 
-![[Pasted image 20250512183554.png]]
+![Apply Font](Pasted image 20250512183554.png)
 
 Pick the fonts you want to use for these parts of the font display!
 
@@ -98,19 +98,19 @@ https://www.cinnamon-look.org/browse/
 
 and click on cursors!
 
-![[Pasted image 20250512184001.png]]
+![Click on cursors](Pasted image 20250512184001.png)
 
 When you click on "Cursors" it will redirect you to another page (still on cinnamon-look) where you can download the cursor you want from.
 
 For the tutorial I'll be using this cursor:
 
-![[Pasted image 20250512184150.png]]
+![The cursor I'll use](Pasted image 20250512184150.png)
 
 You can click on "Download" which will show you a drop down, click on that and it will start installing the cursor.
 
 Now navigate to where you installed the cursor.
 
-![[Pasted image 20250512184453.png]]
+![Download location for cursor](Pasted image 20250512184453.png)
 
 right click the file and hit extract here!
 
@@ -119,11 +119,11 @@ CTRL + H to show all hidden files.
 
 Now we're going to go back to the home folder and we want to find the .icons folder, if it doesn't exist create it:
 
-![[Pasted image 20250512185512.png]]
+![.icons folder](Pasted image 20250512185512.png)
 
 now after entering the folder we're going to paste the cursor in here:
 
-![[Pasted image 20250512185654.png]]
+![Place cursor](Pasted image 20250512185654.png)
 
 Now let's head over to "Themes" to use this cursor
 
