@@ -1,7 +1,7 @@
 ### **Welcome to my Linux customisation guide!** 
 
 #### Here are things we will go over in this guide:
-- [[#Themes]]
+- [Themes](#themes)
 - [[#Fonts]]
 - [[#Cursors]]
 - [[#Extensions]]
