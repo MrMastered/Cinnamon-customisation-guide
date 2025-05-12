@@ -221,3 +221,4 @@ Now go to themes and select it under: "Application".
 ---
 
 Thanks for reading, hope you got to know how to customise your system more!!
+# Cinnamon-customisation-guide
