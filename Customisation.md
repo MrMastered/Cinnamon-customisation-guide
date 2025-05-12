@@ -208,7 +208,7 @@ For icons you can follow the exact same guide for [[#Cursors]] but all you have 
 For application styles we're going to head over to https://www.cinnamon-look.org/browse/ again, and press on "GTK3/4 Themes".
 For this tutorial I'll be using Jasper-Gtk-Theme:
 
-![[Pasted image 20250512193638.png]]
+![[images/Pasted_image_20250512193638.png]]
 
 Download the theme and go to your install location, there extract the folder and go to your .themes
 
@@ -221,5 +221,3 @@ Now go to themes and select it under: "Application".
 ---
 
 Thanks for reading, hope you got to know how to customise your system more!!
-# Cinnamon-customisation-guide
-# Cinnamon-customisation-guide
