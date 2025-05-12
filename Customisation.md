@@ -2,13 +2,13 @@
 
 #### Here are things we will go over in this guide:
 - [Themes](#themes)
-- [[#Fonts]]
-- [[#Cursors]]
-- [[#Extensions]]
-- [[#Wallpapers]]
-- [[#Widgets]]
-- [[#Icons]]
-- [[#Application styles]]
+- [Fonts](#fonts)
+- [Cursors](#cursors)
+- [Extensions](#extensions)
+- [Wallpapers](#wallpapers)
+- [Widgets](#widgets)
+- [Icons](#icons)
+- [Application styles](#application-styles)
 
 
 ---
@@ -21,15 +21,15 @@
 
 In Linux Mint there are many themes to pick from, you can either find them if you go to:
 
-![[Screenshot from 2025-05-12 18-01-37.png]]
+![Themes Screenshot](images/Screenshot%20from%202025-05-12%2018-01-37.png)
 
 and on there you have to click on "Advanced settings":
 
-![[Pasted image 20250512180422.png]]
+![Advanced Settings](images/Pasted%20image%2020250512180422.png)
 
 After you do that you can click on Add/Remove:
 
-![[Pasted image 20250512180548.png]]
+![Add/Remove](images/Pasted%20image%2020250512180548.png)
 
 which allows you to install a theme from the official Cinnamon-Look Store,
 
@@ -52,7 +52,7 @@ Fonts are a really cool thing in Linux, you can install your favorite font using
 
 The way you install it is:
 
-![[Pasted image 20250512181213.png]]
+![JetBrains Mono Search](images/Pasted%20image%2020250512181213.png)
 
 
 and then you run this command in your terminal for Debian based systems:
